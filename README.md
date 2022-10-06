@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kruonos
-- 👀 I’m interested in c++ programming
-- 🌱 I’m currently learning websites
+- 👀 I’m interested in mobile programming
+- 🌱 I’m currently learning 2D and 3D games for android
 - 💞️ empty
 - 📫 empty
 
