@@ -1,11 +1,6 @@
 # Oi, eu sou o kruonos 👋
 
-Desenvolvedor Android focado em criação de jogos mobile (2D e 3D).
-
-Gosto de construir coisas do zero, entender como as coisas funcionam por baixo dos panos e melhorar minha habilidade em performance e game development.
-
-Atualmente mergulhando cada vez mais no universo de jogos para Android.
-
+Desenvolvedor full stack, focado em desenvolvimento web e banco de dados.
 ---
 
 ### Tecnologias que mais uso
