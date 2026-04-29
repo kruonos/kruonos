@@ -1,5 +1,5 @@
 # Oi, eu sou o kruonos 👋
-meu portfólio completo: kruonos.work
+meu portfólio completo: https://kruonos.work
 
 Desenvolvedor full stack, focado em desenvolvimento web e banco de dados.
 ---
